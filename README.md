@@ -6,11 +6,11 @@
 
 ###
 
-<h5 align="left">I'm Electronics and Communication Engineer.<br>Software Engineer</h5>
+<h3 align="left">I'm Electronics and Communication Engineer.<br>Software Engineer</h3>
 
 ###
 
-<h5 align="left">I code with Python, Java Script, C++</h5>
+<h4 align="left">I code with Python, Java Script, C++</h4>
 
 ###
 
@@ -28,6 +28,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
