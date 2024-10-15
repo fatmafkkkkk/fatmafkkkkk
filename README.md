@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="left">Fatma Mohamad</h5>
+<h2 align="left">Fatma Mohamad</h2>
 
 ###
 
